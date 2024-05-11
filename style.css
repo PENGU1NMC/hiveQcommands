@@ -41,7 +41,7 @@ body {
   border: none;
   border-bottom: 1px solid #fff;
   outline: none;
-  background: rgba(0,0,0,.5);
+  //background: rgba(0,0,0,.5);
 }
 .login-box .user-box label {
   position: absolute;
